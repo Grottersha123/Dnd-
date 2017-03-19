@@ -1,6 +1,6 @@
 Ния 4 level (1 seducer/3 duskblade)
 ВАВ +3
-hp 15~15
+hp  26 -  26
 str 12 - +1
 dex 18 - +4
 const 8- -1
