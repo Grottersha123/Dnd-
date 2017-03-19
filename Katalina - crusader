@@ -1,0 +1,32 @@
+Каталина Крестоносец 5 лвл
+str 16 +3                                      hp 54
+       resolve pool      0/10                                                       
+dex 15 +2
+const 16 +3
+int 14  +2
+wis 13 +1
+cha +3
+
+BAB +5
+AR +9 
+Attack 1d8 + 4
+
+AC 20
+Touch 12
+Flat 18
+
+Fort 6
+ref 3
+will 3
+
+Bluff 10
+Diplomacy 15
+Indimidate 12
+knowledge  6
+Listen 9
+Search 9
+Sense Motive 8
+Spot 10
+Survival 10
+
+
