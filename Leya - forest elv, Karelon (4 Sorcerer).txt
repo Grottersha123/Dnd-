@@ -1,0 +1,41 @@
+Leya - forest elv, Karelon (4 Sorcerer)
+BAB +2
+
+hp 12 /12
+
+str  10 - +0 
+ 
+dex  14 - + 2
+
+con  13- + 1
+
+wis  11 - +0
+
+int  11 - +0
+
+char  16 + 3
+
+fort - 2
+ref - 3
+will - 4
+
+Summon Familiar (Синистер) 
+Snake viper (+ bluff)
+
+Master Class Level	Natural Armor Adj.	Int	Special
+1st—2nd	+1	6	Alertness, improved evasion, share spells, empathic link
+3rd—4th	+2	7	Deliver touch spells
+
+Alertness (Настороженность)(Ex): Spot +2 , +2 bluff.
+
+Improved Evasion (Улуч): когда нужно кидать рефлекс(при атаке противника) и он успешен, то дамага нет, а если есть то половину дамага.
+
+Share Spells: все что хозяин кастит на себя кастится на фамильяра в 5 футов - а т.е. в 1 шаге.
+
+Empathic Link (Su): волшебник имеет эмпатичекую свзять со своим фамильяром в 1.3 км . Он не видит через галаза фамильяра, но зато может  с ним эмпатически общаться. Он может видеть эмоциональные свойства(голод, счастья страх  и тюпю). 
+
+Deliver Touch Spells (передача заклов через фамильяра):Змейке можно 
+передать заклинание и провести через нее тач атаку.
+
+hp 5 / 5 
+
