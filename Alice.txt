@@ -1,5 +1,7 @@
 Alice / half-forest Pelor  (3 Favoured Souls)
 
+hp / hp - 28 /28
+
 BAB - 2 
 Initiative 4
 Attack Touch 6
@@ -24,10 +26,37 @@ ref - 7
 will - 6
 
 
+30
 
 AC - 14
 Touch AC - 14 
 Flat-foot AC - 10
+
+Skills 
+
+Diplomacy 10
+
+Sensemotive  5
+
+gathering information   5
+
+spot - 5
+
+listen  -4
+
+spellcraft 10
+
+Heal -7
+
+Concentration	7
+
+Craft  7
+
+
+Knowledge (arcana) 5
+
+langueges Common? Draconic.
+
 
 Weapon Winess - dex +bab when meele attack 
 0|1	
