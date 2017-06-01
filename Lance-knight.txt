@@ -1,6 +1,6 @@
 Lance / knight 4 lvl Haronius neitral----lawful human 
 
-hp 40 - 5
+hp 40 - 23к
 
 BAB - 4
 Initiative 5
@@ -11,7 +11,7 @@ str - 15 - + 2
 
 dex -  15 - +2
 
-const - 18 - +4 (-14 ~-4 )
+const - 18 - +4 (-14 ~-2 )
 
 int - 10 - + 0
 
