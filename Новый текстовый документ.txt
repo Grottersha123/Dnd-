@@ -1,0 +1,31 @@
+Триэль 5 lvl half vampire
+ВАВ -
+hp  55 -  56
+str 18 = 16+2 - +4
+dex 14 = 12+ 2  - +2
+const 16 -  +3
+int   14 - +2
+wis   14 -  +2
+char 10 = 8+ 2 -+0
+
+fort - 
+ref - 
+will - 
+
+skills 39 -7 - 7 -7 -7 -7 
+intivate 2
+AC    21 = 10+ 8+ 1+ 2
+Touch 14
+Flat 18
+attack roll 7 ~
+
+
+bluff 11
+Diplomacy (Cha), 11
+Escape Artist (Dex) 6
+Spellcraft 11
+Listen 5
+Spot 4
+Perform Dance(dex) 8
+Sense Motive (Wis) 6
+Use Rope (Dex). 11
